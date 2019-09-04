@@ -8,6 +8,7 @@ go get github.com/rasyidkaromi/serialport
 
 Usage
 ---------------
+```go
 
 
         package main
@@ -68,4 +69,4 @@ Usage
             connection.Write(text)
           }
         }
-
+```
